@@ -10,3 +10,16 @@ BONUS
 1 - Mostrare il risultato a video in html;
 2 - Stilizzare con i css la pagina
 
+PROBLEMA BIGLIETTO TRENO:
+1 - Definire una costante per il prezzo al km
+2 - Definire una variabile per il biglietto
+3 - Chiedere all'utente la distanza
+4 - Chiedere all'utente l'età
+5 - Calcolare il costo ed assegnarlo al biglietto
+6a - ? minorenne
+    7 - Calcolare lo sconto del 20%
+    8 - Assegnare il nuovo prezzo al biglietto
+6b - : ? over 65
+    7 - Calcolare lo sconto del 20%
+    8 - Assegnare il nuovo prezzo al biglietto
+ - Mostare il prezzo del biglietto
